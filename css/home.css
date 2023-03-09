@@ -743,6 +743,10 @@ h5 {
         display: none;
     }
 
+    .carousel-control-next {
+        display: none;
+    }
+
 }
 
 @media (max-width:768px) {
